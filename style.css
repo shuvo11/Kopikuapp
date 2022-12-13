@@ -1,0 +1,99 @@
+.sidebar-img{
+    background-color: #F38A5D;
+    border-radius: 0px 0px 0px 100px;
+    height: 700px;
+   
+}
+.sidebarimage img{
+    height: 80%;
+   padding: 80px 80px 80px 80px;
+    
+}
+.headertext{
+     margin-top: 100px;
+}
+.text-bloting{
+    font-weight: 900;
+    font-size: 60px;
+}
+#button{
+    background-color: #F38A5D;
+    border: none;
+    border-radius: 100px;
+    Width:200px;
+    Height:80px;
+}
+.rating{
+    margin-top: 200px;
+}
+.card2nd{
+    margin-top: 200px;
+}
+
+.first-card{
+    border: none;
+}
+#btn{
+    background-color: #DBDDDE;
+    color: black;
+    border: none;
+    border-radius: 100px;
+    Width:200px;
+    Height:40px;
+}
+
+.text-{
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.second-card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 13px;
+    background-color: #212B33;
+    color: white;
+    width: 300px;
+    height: 300px;
+}
+.third-card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 13px; 
+    background-color: #F9FAFB;
+    width: 300px;
+    height: 300px;
+}
+
+.icon{
+    margin-left: 15px;
+}
+
+.third-part{
+    margin-top: 200px;
+}
+.p-navitem{
+    font-size: 20px;
+    font-weight: 400;
+}
+.four-card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 13px; 
+
+}
+.four-part{
+    margin-top: 100px;
+}
+.part-five{
+    margin-top: 100px;
+    width: 100%;
+    height: ;
+    background-color: #212B33; 
+    border: none;
+    border-radius: 15px;
+    color: white;
+}
+.email-discount{
+    margin-top: 150px;
+}
