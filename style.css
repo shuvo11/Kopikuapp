@@ -1,14 +1,17 @@
+
+body{
+   
+ 
+}
+
+
 .sidebar-img{
     background-color: #F38A5D;
     border-radius: 0px 0px 0px 100px;
-    height: 700px;
+    
    
 }
-.sidebarimage img{
-    height: 80%;
-   padding: 80px 80px 80px 80px;
-    
-}
+
 .headertext{
      margin-top: 100px;
 }
@@ -49,20 +52,18 @@
 
 .second-card{
     border: none;
-    box-shadow: 5px 5px 10px lightgray;
+    box-shadow: 5px 5px 5px 5px lightgray;
     border-radius: 13px;
     background-color: #212B33;
     color: white;
-    width: 300px;
-    height: 300px;
+   
 }
 .third-card{
     border: none;
-    box-shadow: 5px 5px 10px lightgray;
+    box-shadow: 5px 5px 5px 5px lightgray;
     border-radius: 13px; 
     background-color: #F9FAFB;
-    width: 300px;
-    height: 300px;
+  
 }
 
 .icon{
@@ -78,17 +79,18 @@
 }
 .four-card{
     border: none;
-    box-shadow: 5px 5px 10px lightgray;
+    box-shadow: 5px 5px 5px lightgray;
     border-radius: 13px; 
 
+}
+.product-e{
+    width: 100%;
 }
 .four-part{
     margin-top: 100px;
 }
 .part-five{
     margin-top: 100px;
-    width: 100%;
-    height: ;
     background-color: #212B33; 
     border: none;
     border-radius: 15px;
@@ -96,4 +98,78 @@
 }
 .email-discount{
     margin-top: 150px;
+}
+
+.footer-back{
+    background-color: #212B33;
+    height: 50%;
+    color: white;
+}
+ol li{
+    list-style: none;
+    float: left;
+    padding: 5px;
+}
+
+h6{
+    margin-top: 100px;
+}
+.footer-list ul li{
+
+    list-style: none;
+    padding: 5px;
+}
+.ft-img{
+    margin-top: 100px;
+   
+}
+.sl-app{
+    margin-top: 50px;
+}
+
+@media (min-width: 390px) {  
+    .sidebarimage img {
+        
+        padding: 0px 0px 0px 0px;
+    }
+}
+@media (min-width: 480px) {  
+    .sidebarimage img {
+        
+        padding: 0px 0px 0px 0px;
+    }
+}
+@media (min-width: 576px) {  
+    .sidebarimage img {
+        
+        padding: 0px 0px 0px 0px;
+    }
+}
+
+@media (min-width: 768px) {  
+    .sidebarimage img {
+        
+        padding: 0px 0px 0px 0px;
+    }
+}
+ 
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    .sidebarimage img {
+        
+        padding: 0px 0px 0px 0px;
+    }
+}
+ 
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {  
+    .sidebarimage img {
+        
+        padding: 0px 0px 0px 0px;
+    }
+}
+ 
+/* Extra extra large devices (extra large desktops, 1400px and up) */
+@media (min-width: 1400px) {  
+    
 }
